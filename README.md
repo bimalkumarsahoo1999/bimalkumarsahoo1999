@@ -7,12 +7,11 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://bimalkumarsahoo.vercel.app/)
-[![website](./img/globe-dark.svg)](https://bimalkumarsahoo.vercel.app/)
+[![website](./img/globe-light.svg)](https://bimalkumarsahoo.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://bimalkumarsahoo.vercel.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bimal-kumar-sahoo/)
-
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bimal-kumar-sahoo/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bimal-kumar-sahoo/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bimal-kumar-sahoo/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
